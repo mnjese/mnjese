@@ -1,9 +1,19 @@
-## About Me
+## 👩‍💻 About Me
 
-- **이름:** 김민지  
-- **학교:** 동국대학교 정보통신공학과 23학번
-- **생년월일:** 2004.11.16
-- **이메일**: mjk5949@naver.com
+- **이름**: 김민지  
+- **학교**: 동국대학교 정보통신공학과 23학번  
+- **생년월일**: 2004.11.16  
+- **이메일**: mjk5949@naver.com  
+
+---
+
+## 📊 My GitHub Stats
+
+<p align="center">
+  <a href="https://github.com/mnjese">
+    <img src="https://github-readme-stats.vercel.app/api?username=mnjese&hide_title=true&show_icons=true&disable_animations=true&theme=radical" alt="mnjese's GitHub Stats" />
+  </a>
+</p>
 
 
 <!--
@@ -35,13 +45,3 @@
 <a href="#"><img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white" height="22" /></a>
 <a href="#"><img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" height="22" /></a>
 -->
-
-<h3 align="center"> My Github Stats </h3>
-
-<div align="center">
-  
-<!-- 깃헙 정보 -->
-
-[![mnjese's github stats](https://github-readme-stats.vercel.app/api?username=mnjese&hide_title=true&show_icons=true&disable_animations=true&theme=radical)](https://github.com/mnjese)
-
-</div>
