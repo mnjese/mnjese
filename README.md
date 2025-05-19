@@ -6,7 +6,7 @@
 - **이메일**: mjk5949@naver.com
 
 
-
+<!--
 ## Tech Stacks
 
 ### Frontend  
@@ -34,7 +34,7 @@
 <a href="#"><img src="https://img.shields.io/badge/Google%20Cloud-4285F4?logo=googlecloud&logoColor=white" height="22" /></a>
 <a href="#"><img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white" height="22" /></a>
 <a href="#"><img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" height="22" /></a>
-
+-->
 
 
 
