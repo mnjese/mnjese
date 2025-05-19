@@ -5,7 +5,6 @@
 - **생년월일**: 2004.11.16  
 - **이메일**: mjk5949@naver.com  
 
-<!--
 ---
 
 ## 📊 My GitHub Stats
@@ -16,7 +15,16 @@
   </a>
 </p>
 
--->
+---
+
+## 🧩 My BOJ Stats
+
+<p align="center">
+  <a href="https://solved.ac/mjk5949/">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=mjk5949" alt="Solved.ac Profile" />
+  </a>
+</p>
+
 
 <!--
 ## Tech Stacks
