@@ -36,5 +36,8 @@
 <a href="#"><img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" height="22" /></a>
 -->
 
+<!-- 깃헙 정보 -->
+
+[![mnjese's github stats](https://github-readme-stats.vercel.app/api?username=mnjese&hide_title=true&show_icons=true&disable_animations=true&theme=radical)](https://github.com/mnjese)
 
 
