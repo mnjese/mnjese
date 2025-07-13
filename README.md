@@ -6,16 +6,6 @@
 
 ---
 
-## 📊 My GitHub Stats
-
-<p align="center">
-  <a href="https://github.com/mnjese">
-    <img src="https://github-readme-stats.vercel.app/api?username=mnjese&hide_title=true&show_icons=true&disable_animations=true&theme=radical&count_private=true&cache_seconds=60" alt="mnjese's GitHub Stats" />
-  </a>
-</p>
-
----
-
 ## 🧩 My BOJ Stats
 
 <p align="center">
